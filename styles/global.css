@@ -1,0 +1,20 @@
+html {
+  background-color: rgb(207, 213, 218);
+}
+
+*[lang='ja'] {
+  font-family: 'Kosugi Maru', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
+
+a:hover {
+  color: purple;
+}

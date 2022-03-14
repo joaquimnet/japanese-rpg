@@ -1,0 +1,16 @@
+.Furigana:before {
+  content: attr(data-furigana);
+  display: block;
+  font-size: 50%;
+  text-align: start;
+  line-height: 1.5;
+}
+
+.Furigana {
+  display: inline-block;
+  text-indent: 0px;
+  line-height: normal;
+  -webkit-text-emphasis: none;
+  text-align: center;
+  line-height: 1;
+}
